@@ -1,7 +1,7 @@
 ---
 title: Tina Cloud Starter KJE
 blocks:
-  - headline: Welcome to the Tina Starter KJE
+  - headline: Welcome to the Tina Starter KJE2
     text: >
       ## **Editors**
 
